@@ -1,4 +1,8 @@
-<p>Welcome to my page! <br> I'm <b>Spark</b>, a Software Engineer.</p>
+# Welcome to my page!
+
+<p> I'm <b>Spark</b>, a Software Engineer.</p>
+
+---
 
 <h3>Languages & Core Frameworks</h3>
 <p>
