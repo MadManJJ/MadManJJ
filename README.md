@@ -1,4 +1,4 @@
-# Welcome to my page!
+# Welcome!
 
 <p> I'm <b>Spark</b>, a Software Engineer.</p>
 
